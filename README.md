@@ -1,5 +1,4 @@
 # Tienda-san-angel5
-[](https://github.com/aldo830/Tienda-san-angel5/tree/lam/index)
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -674,7 +673,8 @@
                 <!-- Product 3 -->
                 <div class="product-card">
                     <div class="product-badge">-30%</div>
-                    <img src="C:\index\audi.jpg" alt="Audífonos Inalámbricos" class="product-img">
+                    <img src="Tienda-san-angel5/ índice
+/audi.jpg" alt="Audífonos Inalámbricos" class="product-img">
                     <div class="product-info">
                         <h3>Audífonos Inalámbricos</h3>
                         <div class="product-price">
