@@ -643,7 +643,7 @@
                 <!-- Product 1 -->
                 <div class="product-card">
                     <div class="product-badge">-25%</div>
-                    <img src="C:\imagenes\iphone.jpg" alt="Smartphone Modelo X" class="product-img">
+                    <img src="C:\iphone.jpg" alt="Smartphone Modelo X" class="product-img">
                     <div class="product-info">
                         <h3>Smartphone Modelo X</h3>
                         <div class="product-price">
