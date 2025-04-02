@@ -643,7 +643,7 @@
                 <!-- Product 1 -->
                 <div class="product-card">
                     <div class="product-badge">-25%</div>
-                    <img src="Tienda-san-angel\índice\index\iphone.jpg" alt="Smartphone Modelo X" class="product-img">
+                    <img src="índice\index\iphone.jpg" alt="Smartphone Modelo X" class="product-img">
                     <div class="product-info">
                         <h3>Smartphone Modelo X</h3>
                         <div class="product-price">
@@ -658,7 +658,7 @@
                 <!-- Product 2 -->
                 <div class="product-card">
                     <div class="product-badge">-40%</div>
-                    <img src="Tienda-san-angel5\índice\index\s.jpg" alt="Smartwatch Pro" class="product-img">
+                    <img src="índice\index\s.jpg" alt="Smartwatch Pro" class="product-img">
                     <div class="product-info">
                         <h3>Smartwatch Pro</h3>
                         <div class="product-price">
@@ -673,7 +673,7 @@
                 <!-- Product 3 -->
                 <div class="product-card">
                     <div class="product-badge">-30%</div>
-                    <img src="Tienda-san-angel5\índice\index\audi.jpg" alt="Audífonos Inalámbricos" class="product-img">
+                    <img src="índice\index\audi.jpg" alt="Audífonos Inalámbricos" class="product-img">
                     <div class="product-info">
                         <h3>Audífonos Inalámbricos</h3>
                         <div class="product-price">
@@ -688,7 +688,7 @@
                 <!-- Product 4 -->
                 <div class="product-card">
                     <div class="product-badge">-15%</div>
-                    <img src="Tienda-san-angel\índice\index\tablet.jpg" alt="Tablet Ultradelgada" class="product-img">
+                    <img src="índice\index\tablet.jpg" alt="Tablet Ultradelgada" class="product-img">
                     <div class="product-info">
                         <h3>Tablet Ultradelgada</h3>
                         <div class="product-price">
@@ -703,7 +703,7 @@
                 <!-- Product 5 -->
                 <div class="product-card">
                     <div class="product-badge">-50%</div>
-                    <img src="Tienda-san-angel\índice\index\tv.jpg" alt="Smart TV 43" class="product-img">
+                    <img src="índice\index\tv.jpg" alt="Smart TV 43" class="product-img">
                     <div class="product-info">
                         <h3>Smart TV 43"</h3>
                         <div class="product-price">
@@ -718,7 +718,7 @@
                 <!-- Product 6 -->
                 <div class="product-card">
                     <div class="product-badge">-35%</div>
-                    <img src="Tienda-san-angel\índice\index\laptops.jpg" alt="Laptop Ultrabook" class="product-img">
+                    <img src="índice\index\laptops.jpg" alt="Laptop Ultrabook" class="product-img">
                     <div class="product-info">
                         <h3>Laptop Ultrabook</h3>
                         <div class="product-price">
@@ -733,7 +733,7 @@
                 <!-- Product 7 -->
                 <div class="product-card">
                     <div class="product-badge">-20%</div>
-                    <img src="Tienda-san-angel\índice\index\camara.jpg" alt="Cámara Digital" class="product-img">
+                    <img src="índice\index\camara.jpg" alt="Cámara Digital" class="product-img">
                     <div class="product-info">
                         <h3>Cámara Digital</h3>
                         <div class="product-price">
@@ -748,7 +748,7 @@
                 <!-- Product 8 -->
                 <div class="product-card">
                     <div class="product-badge">-45%</div>
-                    <img src="Tienda-san-angel\índice\index\consola.jpg" alt="Consola de Videojuegos" class="product-img">
+                    <img src="índice\index\consola.jpg" alt="Consola de Videojuegos" class="product-img">
                     <div class="product-info">
                         <h3>Consola de Videojuegos</h3>
                         <div class="product-price">
